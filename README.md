@@ -51,7 +51,7 @@ Full Stack Developer • MERN Stack • Learning AI & System Design
 
 ---
 
-## 📊 GitHub Stats
+## 📈 My GitHub Journey
 
 <a href="https://github.com/Umang-Khemka/github-readme-stats">
   <img alt="Umang's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Umang-Khemka&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="450" />
@@ -60,17 +60,9 @@ Full Stack Developer • MERN Stack • Learning AI & System Design
   <img alt="Umang's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Umang-Khemka&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="350" />
 </a>
 
----
-
-## 🔥 GitHub Streak
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Umang-Khemka&theme=tokyonight&hide_border=true&background=0D1117" />
 </p>
-
----
-
-## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
