@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umang</h1>
-
 <h3 align="center">
 Full Stack Developer • MERN Stack • Learning AI & System Design
 </h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Building+real-world+projects;MERN+Stack+Developer;Learning+AI+and+System+Design;DSA+%7C+C%2B%2B+%7C+Open+Source;Consistency+%3E+Motivation" />
 </p>
@@ -27,12 +25,10 @@ Full Stack Developer • MERN Stack • Learning AI & System Design
 <img src="https://skillicons.dev/icons?i=github" height="50" />
 </a>
 &nbsp;&nbsp;&nbsp;
-
 <a href="https://www.linkedin.com/in/umang-khemka-9ab713295/" target="blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
 </a>
 &nbsp;&nbsp;&nbsp;
-
 <a href="https://www.instagram.com/khemka_umang/" target="blank">
 <img src="https://skillicons.dev/icons?i=instagram" height="50" />
 </a>
@@ -51,8 +47,7 @@ Full Stack Developer • MERN Stack • Learning AI & System Design
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Umang-Khemka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Umang-Khemka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umang-Khemka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </p>
 
@@ -62,6 +57,14 @@ Full Stack Developer • MERN Stack • Learning AI & System Design
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Umang-Khemka&theme=tokyonight&hide_border=true&background=0D1117" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Umang-Khemka&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </p>
 
 ---
