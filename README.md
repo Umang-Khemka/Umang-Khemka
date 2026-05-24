@@ -47,9 +47,11 @@ Full Stack Developer • MERN Stack • Learning AI & System Design
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Umang-Khemka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umang-Khemka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Umang-Khemka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true&cache_seconds=1800" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umang-Khemka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800" />
 </p>
+
+> ⚠️ If stats don't load, try: [GitHub Stats (alternate)](https://github-stats.vercel.app/api?username=Umang-Khemka)
 
 ---
 
@@ -73,6 +75,18 @@ Full Stack Developer • MERN Stack • Learning AI & System Design
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Umang-Khemka&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Umang-Khemka/Umang-Khemka/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Umang-Khemka/Umang-Khemka/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Umang-Khemka/Umang-Khemka/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </p>
 
 ---
