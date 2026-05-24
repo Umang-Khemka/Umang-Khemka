@@ -6,15 +6,22 @@ Full Stack Developer • MERN Stack • Learning AI & System Design
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Building+real-world+projects;MERN+Stack+Developer;Learning+AI+and+System+Design;DSA+%7C+C%2B%2B+%7C+Open+Source;Consistency+%3E+Motivation" />
 </p>
 
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Umang-Khemka&label=Profile%20views&color=00f7ff&style=flat-square" alt="Umang-Khemka" />
+</p>
+
 ---
 
 ## 🚀 About Me
+
+<img align="right" alt="coding" height="300px" width="340px" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 
 - 🌱 Currently learning **AI, System Design & Backend Engineering**
 - 💻 Building real-world **MERN stack projects**
 - 🎯 Preparing for **Internships & GSoC**
 - 📚 Solving **DSA in C++**
 - ⚡ Love building products that solve real problems
+- 📫 Reach me at: **umangk200511@gmail.com**
 
 ---
 
@@ -39,19 +46,19 @@ Full Stack Developer • MERN Stack • Learning AI & System Design
 ## 🛠️ Languages and Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,c,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,tailwind,redux,docker,git,github,postman,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=cpp,c,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,tailwind,redux,docker,git,github,postman,linux,vscode,aws" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Umang-Khemka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true&cache_seconds=1800" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umang-Khemka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800" />
-</p>
-
-> ⚠️ If stats don't load, try: [GitHub Stats (alternate)](https://github-stats.vercel.app/api?username=Umang-Khemka)
+<a href="https://github.com/Umang-Khemka/github-readme-stats">
+  <img alt="Umang's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Umang-Khemka&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="450" />
+</a>
+<a href="https://github.com/Umang-Khemka/github-readme-stats">
+  <img alt="Umang's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Umang-Khemka&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="350" />
+</a>
 
 ---
 
@@ -63,29 +70,13 @@ Full Stack Developer • MERN Stack • Learning AI & System Design
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Umang-Khemka&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Umang-Khemka&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Umang-Khemka/Umang-Khemka/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Umang-Khemka/Umang-Khemka/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Umang-Khemka/Umang-Khemka/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Umang-Khemka/Umang-Khemka/output/github-contribution-grid-snake-dark.svg" width="100%" />
   </picture>
 </p>
 
