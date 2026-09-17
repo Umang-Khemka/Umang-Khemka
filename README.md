@@ -18,7 +18,6 @@ Full Stack Developer • MERN Stack • Learning AI & System Design
 
 - 🌱 Currently learning **AI, System Design & Backend Engineering**
 - 💻 Building real-world **MERN stack projects**
-- 🎯 Preparing for **Internships & GSoC**
 - 📚 Solving **DSA in C++**
 - ⚡ Love building products that solve real problems
 - 📫 Reach me at: **umangk200511@gmail.com**
